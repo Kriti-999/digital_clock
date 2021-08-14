@@ -1,0 +1,9 @@
+﻿body
+{
+    background-color:black;
+    color:deepskyblue;
+}
+.clock{
+    padding:20px;
+    font-size:110px;
+}
